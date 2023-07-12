@@ -8,7 +8,7 @@ public class H_work_02 {
 
     public static void main(String[] args) {
         // task1();
-        // task2();
+        task2();
         // task3();
         // task4();
 
